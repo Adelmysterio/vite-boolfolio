@@ -1,0 +1,7 @@
+@use '../../node_modules/bootstrap';
+@use './partials/variables.scss' as *;
+
+body {
+    background-color: gold;
+    color: $gray;
+}
